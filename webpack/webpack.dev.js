@@ -28,7 +28,7 @@ module.exports = merge(common, {
                     "import-glob-loader"
                 ]
             },
-            { // Handlebars
+            { // Handlebars use F
                 test: /\.hbs$/,
                 use:[
                     {

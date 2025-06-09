@@ -11,7 +11,7 @@
 					"type": "metadata_field_select",
 					"description": "",
 					"friendly_name": "Display Breadcrumbs?",
-					"value": "yes",
+					"value": "no",
 					"options": {
 						"": "No",
 						"yes": "Yes"
